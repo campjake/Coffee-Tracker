@@ -12,4 +12,4 @@ So we will aim to focus more on those who have a burr grinder and can more consi
 ### Notes & Resources
 The Coffee Tracker is made using C++ & Qt Creator. Please contribute with your feedback. I am learning design principles as I go, so I appreciate all constructive feedback. Thanks!
 
-- Jake
+Jake
