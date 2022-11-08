@@ -10,6 +10,6 @@ This application will be targeted at people who grind their own beans. The varia
 So we will aim to focus more on those who have a burr grinder and can more consistently grind coffee beans to a certain fineness day-to-day.
 
 ### Notes & Resources
-The Coffee Tracker is made using C++ & Qt Creator. Please contribute with your feedback. I am learning design principles as I go, so I appreciate all constructive feedback. Thanks!
+The Coffee Tracker is made using C++ & Qt Creator. I am learning design principles as I go, so I appreciate all constructive feedback. Thanks!
 
 Jake
